@@ -52,13 +52,7 @@ My Tech Stacks
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Some stats for the geeky ones
 
-### All repos
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Israel-Laguan&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
-/>
 
 ### Public repos
 
