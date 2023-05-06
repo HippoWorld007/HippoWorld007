@@ -1,16 +1,34 @@
-### Hi there 👋
+# Tech Lead with clean code and the best DX
 
-<!--
-**HippoWorld007/HippoWorld007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started as a data engineer due to my Mathematics background, and then concentrated on web development, working for small and medium-sized companies. Lately, I have been working in international SCRUM teams and mentoring others.
 
-Here are some ideas to get you started:
+| My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com]
+| :---: | :---:
+| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some stats for the geeky ones
+
+### All repos
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Israel-Laguan&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
+/>
+
+### Public repos
+
+![stats][]
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Israel-Laguan/Israel-Laguan)
+
+[pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
+[email-icon]: https://img.icons8.com/color/48/000000/message-squared.png
+[awesome.hippo.dev@gmail.com]: mailto:awesome.hippo.dev@gmail.com
+[github-icon]: https://img.icons8.com/color/48/000000/github--v1.png
+[GitHub]: https://github.com/Israel-Laguan
+[badge-nodejs]: https://img.shields.io/badge/node.js-V14.x-339933?style=for-the-badge&logo=node.js
+[badge-postgres]: https://img.shields.io/badge/database-postgreSQL-47A248?style=for-the-badge&logo=postgresql
+[badge-react]: https://img.shields.io/badge/React-16+-61DAFB?style=for-the-badge&logo=react
+[badge-css]: https://img.shields.io/badge/style-CSS-1572B6?style=for-the-badge&logo=css3
+[banner]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
+[stats]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/github_stats.png
+[tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/israel-laguan
