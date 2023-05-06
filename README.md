@@ -3,9 +3,13 @@
 I started as a data engineer due to my Mathematics background, and then concentrated on web development, working for small and medium-sized companies. Lately, I have been working in international SCRUM teams and mentoring others.
 
 
-| My favorite tools |![email-icon][] Email me to [awesome.hippo.dev@gmail.com]
-| :---: | :---:
-| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+</h3>
 
 <picture>
   <source
