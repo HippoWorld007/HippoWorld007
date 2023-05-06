@@ -2,6 +2,7 @@
 
 I started as a data engineer due to my Mathematics background, and then concentrated on web development, working for small and medium-sized companies. Lately, I have been working in international SCRUM teams and mentoring others.
 
+
 | My favorite tools |![email-icon][] Email me to [awesome.hippo.dev@gmail.com]
 | :---: | :---:
 | ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
@@ -25,11 +26,9 @@ I started as a data engineer due to my Mathematics background, and then concentr
   />
 </picture>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+## GitHub Profile Trophy 🏆
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
