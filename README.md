@@ -5,7 +5,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am a senior full-stack developer with 7+ years of development experience. I am looking for an opportunity to show my skills. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
